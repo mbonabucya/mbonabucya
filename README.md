@@ -25,7 +25,7 @@ Here are some ideas to get you started:-->
 - Collaborating with my team to face the open challenges.
 
 ## Get In touch
-
+<p align ="left">
 <a href = "https://www.linkedin.com/in/james-mbonabucya"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Mbonabucya12"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:-->
 </p>
 
 <hr>
-### Certificates & Licenses 🥇
+## Certificates & Licenses 🥇
 
 <p align="left" width="100">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="" target="blank"><img src="./images/html-css-badge.png" width="80"></a>
