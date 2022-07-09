@@ -33,11 +33,11 @@ Here are some ideas to get you started:-->
 
 </p>
 
-<hr>
-## Certificates & Licenses 🥇
 
+## Certificates & Licenses 🥇
+<hr>
 <p align="left" width="100">
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="" target="blank"><img src="./images/html-css-badge.png" width="80"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/801a8d72-6673-48c5-bfd1-08f1603c9191?record_view=true" target="blank"><img src="./images/html-css-badge.png" width="80"></a>
 </p>
 <hr>
 
