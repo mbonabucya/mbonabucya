@@ -41,3 +41,11 @@ Here are some ideas to get you started:-->
 </p>
 <hr>
 
+<!-- START NEW SECTION -->
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
+
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=mbonabucya&show_icons=true&theme=dark&hide_title=true)](https://github.com/mbonabucya)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbonabucya&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/mbonabucya)|![mbonabucya](https://github-readme-streak-stats.herokuapp.com/?user=mbonabucya&theme=dark)
+<hr>
