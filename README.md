@@ -1,7 +1,7 @@
 ### Hi there 👋, 
 
-I am James a Full stack Developer, Team player who has been building various skills
-in **Data structures and Algorithms using C++ |Javascript ReactJs AngularJs |Ruby Ruby on Rails|Python Django and Django Restframework**
+I am James a Software  and cyber security Engineer, Team player who has been building various skills
+in **Data structures and Algorithms using C++ |Javascript ReactJs AngularJs |Ethicak hacking and cyber defense|Vulnerability assessment and Testing|Python Django and Django Restframework**
 
 <!--
 **mbonabucya/mbonabucya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
